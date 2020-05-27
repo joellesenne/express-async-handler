@@ -64,7 +64,7 @@ yarn add @joellesenne/express-async-handler
 ## ⚙ Usage
 
 ```javascript
-const asyncHandler = require('express-async-handler')
+const asyncHandler = require('@joellesenne/express-async-handler')
 
 express.get('/', asyncHandler(async (req, res, next) => {
   const bar = await foo.findAll();
@@ -74,9 +74,13 @@ express.get('/', asyncHandler(async (req, res, next) => {
 
 ## Author
 
-![Twitter Follow](https://img.shields.io/twitter/follow/joellesenne?style=flat-square)
+👤 **Joël Lesenne &lt;contact@joellesenne.dev&gt;**
 
-![GitHub followers](https://img.shields.io/github/followers/joellesenne?style=flat-square)
+- Twitter : [@joellesenne](https://twitter.com/joellesenne)
+- Github : [@joellesenne](https://github.com/joellesenne)
+- Codepen : [@joellesenne](https://codepen.io/joellesenne)
+
+### 🏠 [Web Site](https://joellesenne.dev)!
 
 ## 🤝 Contributing
 
