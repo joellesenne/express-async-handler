@@ -19,9 +19,9 @@
 
 >Simple Middleware to manage exceptions within express routes in asynchronous.
 
-👀 \[Looking at my work]
+👀 [Looking at my work]
 
-💡 [Template]
+💡 [Inspiration]
 
 📦 [Git project]
 
@@ -67,9 +67,10 @@ yarn add @joellesenne/express-async-handler
 const asyncHandler = require('express-async-handler')
 
 express.get('/', asyncHandler(async (req, res, next) => {
-	const bar = await foo.findAll();
-	res.send(bar)
+  const bar = await foo.findAll();
+  res.send(bar)
 }))
+```
 
 ## Author
 
