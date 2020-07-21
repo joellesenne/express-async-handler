@@ -1,7 +1,7 @@
 /**
  * @name :    express-async-handler
  * @create :  2020/05/25
- * @version : 1.0.0
+ * @version : 1.0.1
  * @author :  François, Joël Lesenne
  * @depot :   <https://github.com/joellesenne/express-async-handler>
  * @licence : MIT <https://mit-license.org/>
