@@ -1,5 +1,5 @@
 const chai = require('chai');
-const asyncHandler = require('../indes');
+const asyncHandler = require('../index');
 
 const { expect } = chai;
 

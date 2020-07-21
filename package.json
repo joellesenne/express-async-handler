@@ -1,6 +1,6 @@
 {
   "name": "@joellesenne/express-async-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Simple Middleware to manage exceptions within express routes in asynchronous",
   "main": "index.js",
@@ -30,6 +30,6 @@
   "homepage": "https://github.com/joellesenne/express-async-handler#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.2.0"
+    "mocha": "^8.0.1"
   }
 }
