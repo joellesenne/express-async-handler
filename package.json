@@ -29,7 +29,22 @@
   },
   "homepage": "https://github.com/joellesenne/express-async-handler#readme",
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
+    "eslint": "^7.5.0",
+    "eslint-plugin-import": "^2.22.0",
     "mocha": "^8.0.1"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "context",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it",
+      "expect"
+    ]
   }
 }
