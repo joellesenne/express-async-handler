@@ -19,7 +19,7 @@
 
 >Simple Middleware to manage exceptions within express routes in asynchronous.
 
-👀 [Looking at my work]
+👀 \[Looking at my work]
 
 💡 [Inspiration]
 
@@ -51,12 +51,14 @@ You will need [node.js](https://nodejs.org/en/) to run the software and see the 
 
 ### Installing
 
+```bash
+~ npm install --save @joellesenne/express-async-handler
 ```
-npm install --save @joellesenne/express-async-handler
-```
+
 or
-```
-yarn add @joellesenne/express-async-handler
+
+```bash
+~ yarn add @joellesenne/express-async-handler
 ```
 
 <a id="usage"></a>
@@ -100,7 +102,7 @@ Copyright © 2020 [Joël Lesenne](https://joellesenne.dev).
 
 This project is [MIT](LICENSE) licensed.
 
-[Looking at my work]: https://joellesenne.github.io/ocr-dw-p5-orinoco
+[Looking at my work]: <insert-a-valid-url>
 
 [Inspiration]: https://github.com/Abazhenov/express-async-handler
 

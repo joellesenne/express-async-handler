@@ -3,7 +3,7 @@ const chai = require('chai');
 /**
  * @load modules UTILS
  */
-const asyncHandler = require('../index');
+const asyncHandler = require('../lib/index');
 
 const { expect } = chai;
 

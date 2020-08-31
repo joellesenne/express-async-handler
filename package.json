@@ -1,16 +1,8 @@
 {
   "name": "@joellesenne/express-async-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "Simple Middleware to manage exceptions within express routes in asynchronous",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test/index.test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joellesenne/express-async-handler.git"
-  },
   "keywords": [
     "Express",
     "async",
@@ -18,22 +10,33 @@
     "asyncHandler",
     "Mocha"
   ],
+  "homepage": "https://github.com/joellesenne/express-async-handler#readme",
+  "bugs": {
+    "url": "https://github.com/joellesenne/express-async-handler/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joellesenne/express-async-handler.git"
+  },
+  "license": "MIT",
   "author": {
     "name": "Joël Lesenne",
     "email": "contact@joellesenne.dev",
     "url": "https://joellesenne.dev"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/joellesenne/express-async-handler/issues"
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
   },
-  "homepage": "https://github.com/joellesenne/express-async-handler#readme",
+  "scripts": {
+    "test": "mocha test/index.test.js"
+  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
-    "eslint": "^7.5.0",
+    "eslint": "^7.7.0",
     "eslint-plugin-import": "^2.22.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.1.3"
   },
   "standard": {
     "globals": [
