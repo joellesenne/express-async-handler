@@ -36,7 +36,7 @@
     "chai": "4.3.4",
     "eslint": "7.25.0",
     "eslint-plugin-import": "2.22.1",
-    "mocha": "8.3.2"
+    "mocha": "8.4.0"
   },
   "engines": {
     "node": ">=14.15.4",
