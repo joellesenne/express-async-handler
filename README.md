@@ -3,8 +3,8 @@
   <a href="https://www.npmjs.com/package/@joellesenne/express-async-handler" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/@joellesenne/express-async-handler.svg">
   </a>
-  <img src="https://img.shields.io/badge/npm-%3E%3D6.14.10-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D14.15.4-blue.svg" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D7.13.0-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D16.0.0-blue.svg" />
   <a href="https://github.com/joellesenne/express-async-handler#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -41,8 +41,8 @@
 
 ## Prerequisites
 
-- npm >=6.14.10
-- node >=14.15.4
+- npm >=7.13.0
+- node >=16.0.0
 
 ## Install
 
