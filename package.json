@@ -1,6 +1,6 @@
 {
   "name": "@joellesenne/express-async-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "Simple Middleware to manage exceptions within express routes in asynchronous",
   "keywords": [
@@ -34,9 +34,9 @@
   "devDependencies": {
     "babel-eslint": "10.1.0",
     "chai": "4.3.4",
-    "eslint": "7.28.0",
-    "eslint-plugin-import": "2.23.4",
-    "mocha": "8.4.0"
+    "eslint": "7.32.0",
+    "eslint-plugin-import": "2.24.2",
+    "mocha": "9.1.2"
   },
   "engines": {
     "node": ">=16.0.0",

@@ -11,7 +11,7 @@
   <a href="https://github.com/joellesenne/express-async-handler/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/joellesenne/express-async-handler/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/joellesenne/express-async-handler/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/joellesenne/@joellesenne/express-async-handler" />
   </a>
   <a href="https://twitter.com/joellesenne" target="_blank">
