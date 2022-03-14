@@ -1,4 +1,4 @@
-{
+module.exports = {
     "env": {
       "node": true,
       "es6": true,
@@ -15,9 +15,9 @@
     "rules": {
       "space-before-function-paren": 0
     },
-    "parser": "babel-eslint",
+    "parser": "@babel/eslint-parser",
     "parserOptions": {
-      "ecmaVersion": 2020
-    }
+      "ecmaVersion": 2020,
+			"requireConfigFile": false
+    },
   }
-  
