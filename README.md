@@ -36,8 +36,7 @@
 
 ## Prerequisites
 
-- npm >=7.13.0
-- node >=16.0.0
+This project requires [node](https://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
 ## Install
 
