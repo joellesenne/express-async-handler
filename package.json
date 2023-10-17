@@ -34,11 +34,11 @@
     "test": "mocha test/index.test.js"
   },
   "devDependencies": {
-    "@babel/core": "7.22.9",
-    "@babel/eslint-parser": "7.22.9",
-    "chai": "4.3.7",
-    "eslint": "8.45.0",
-    "eslint-plugin-import": "2.27.5",
+    "@babel/core": "7.23.2",
+    "@babel/eslint-parser": "7.22.15",
+    "chai": "4.3.10",
+    "eslint": "8.51.0",
+    "eslint-plugin-import": "2.28.1",
     "mocha": "10.2.0"
   },
   "engines": {
